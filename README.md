@@ -4,5 +4,6 @@ Welcome! This repository serves as an archive for the slides and supporting mate
 
 ## 📂 Repository Structure
 Each entry consists of a material delivered at an international conference, subsequently published as a peer-reviewed article in a scientific journal. Materials include:
-* 🛝 PDF/PPTX slide decks.
-* 📝 Graphical abstract.
+* PDF/PPTX slide decks.
+* Graphical abstract.
+* Conference poster.
