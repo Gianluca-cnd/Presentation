@@ -36,15 +36,15 @@ Life Science | Healthcare
 
 ## 📂 Portfolio Structure
 
-This repository serves as an archive of my professional outputs:
+This serves as an archive of my professional outputs:
 
 /PDF or PPTX slide decks: Professional slide decks from conferences and workshops.
 
 /Visual-Science: Graphical abstracts and scientific flyers designed to simplify complex biological mechanisms.
 
-/Data-Insights: Documentation of data pipelines and visualisation dashboards (Power BI/Python samples).
+/Data-Insights: Documentation for data pipelines and visualisation dashboards can be found in a specific repository within this profile.
 
-/Publications: Full list available via ORCID at 0000-0002-5251-6768
+/Publications: Full list available via ORCID at 0000-0002-5251-6768.
 
 
 
