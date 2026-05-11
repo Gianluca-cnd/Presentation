@@ -6,6 +6,6 @@ Full publication list available via my ORCID: 0000-0002-5251-6768
 
 ## 📂 Repository Structure
 * PDF/PPTX slide decks.
-* Graphical abstract.
-* Conference poster.
+* Graphical abstracts.
+* Conference posters.
 * Flyers.
