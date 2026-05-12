@@ -30,9 +30,7 @@ Passionate about AI Transformation, I leverage advanced Prompt Engineering to st
 | **Collaboration** | Google Workspace, MS Teams, Notion, Zoom, Dropbox |
 |  |  |
   
-*Domain Expertise:*
 
-Life Sciences & Healthcare
 
 ## 📂 Portfolio Structure
 This serves as an archive of my professional outputs:
