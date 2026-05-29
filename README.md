@@ -1,17 +1,17 @@
-## 🎯 Scientific Communications & Data Intelligence Professional (PhD)
+##  Scientific Communications & Data Intelligence Professional (PhD)
 
-Science doesn't speak for itself; it requires a bridge between rigorous evidence and strategic action. That's where I come in.
+Science doesn't speak for itself; it requires a bridge between rigorous evidence and strategic action. I operate at the intersection of biological research, medical writing, and data science, transforming complex clinical evidence into compelling, actionable narratives.
 
-I work at the intersection of biological research, scientific communication, and data, bridging the gap between complex evidence and the people who need to act on it. With a background in Life Science/Healthcare and specialised expertise in sleep, circadian rhythms, and clinical data, I turn rigorous science into meaningful insights. Leveraging strong research skills and critical thinking, I produce publications, reports, and evidence-based recommendations that hold up under scrutiny.
-In publishing and medical writing, I combine writing skills with the scientific depth needed to evaluate content critically. I ensure the knowledge and application of technical, ethical, and regulatory guidelines (such as COPE or ICH E6) are at the forefront of every project. My approach to data interpretation and presentation allows me to translate complex clinical datasets into compelling narratives that drive results. By applying advanced analytical skills, I identify patterns and uncover opportunities based on solid evidence.
+With a background in Life Science/Healthcare and specialised expertise in sleep, circadian rhythms, and epidemiology, I bridge the gap between technical complexity and stakeholder strategy. I ensure that all outputs—whether publications, strategic reports, or visual assets—are not only scientifically rigorous but also compliant with the highest ethical standards (COPE, ICH-GCP). By applying advanced analytical skills, I identify patterns and uncover opportunities based on solid evidence.
 
-I am a resourceful professional with a high degree of adaptability, proficient in project planning and management within evolving technical landscapes. My work is grounded in sustainability, and awareness of diversity, equality, and inclusion, and I ensure communication is ethical and accessible. Whether through written, verbal, or visual communication skills, I excel at translating data into strategy.
-
-Passionate about AI Transformation, I leverage advanced Prompt Engineering to streamline workflows and elevate output quality. By integrating LLM logic and AI tools, I optimize processes while ensuring that human insight remains the core driver of clarity and impact. I thrive in environments built on collaboration and interpersonal awareness, where technical precision meets strategic vision.
+*Value Proposition*
+* **Evidence-to-Strategy:** I don't just write; I synthesize. I leverage advanced analytical skills to uncover patterns in clinical datasets, ensuring that communications are backed by solid evidence.
+* **Technological Fluency:** I integrate modern data stacks (Python, SQL) and AI-driven automation into the medical writing workflow, significantly increasing efficiency and data accuracy.
+* **Regulatory Rigour:** Deep knowledge of international regulatory guidelines ensures every project remains audit-ready and ethically sound.
 
 *Key competences and Skills:*
 
-* **Scientific Writing & Communication**: Medical writing, written/verbal/visual communication, data synthesis, and stakeholder communication.
+* **Scientific Writing & Communication**: Medical writing, written/verbal/visual communication, data synthesis, data storytelling, and stakeholder communication.
 * **Analysis & Research**: Strong research skills, critical thinking, data interpretation, and analytical skills, including biostatistics.
 * **Editorial & Compliance**: Editorial skills, quality control, knowledge of COPE Guidelines, and publishing ethics.
 * **Regulatory & Ethics**: Technical, ethical, and regulatory guidelines (e.g., ICH-GCP E6-R3, GDPR), sustainability, and awareness of Diversity, Equality, and Inclusion (DEI).
@@ -32,16 +32,13 @@ Passionate about AI Transformation, I leverage advanced Prompt Engineering to st
   
 
 
-## 📂 Portfolio Structure
-This serves as an archive of my professional outputs:
+## 📂 Portfolio Approach
+This archive serves as evidence of professional output, focused on clarity and impact:
 
-/PDF or PPTX slide decks: Professional slide decks from conferences and workshops.
-
-/Visual-Science: Graphical abstracts and scientific flyers designed to simplify complex biological mechanisms.
-
-/Data-Insights: Documentation for data pipelines and visualisation dashboards can be found in a specific repository within this profile.
-
-/Publications: Full list available via ORCID at 0000-0002-5251-6768.
+* **/Slide-Decks:** Strategic communication decks designed for medical congresses and workshops, emphasising data visualisation.
+* **/Visual-Science:** Graphical abstracts and flyers aimed at bridging the gap between molecular mechanisms and clinical application.
+* **/Insight-Reports:** Case-study driven evidence synthesis, demonstrating the application of analytical rigour to medical communication challenges
+* Full publication list available via ORCID at https://orcid.org/0000-0002-5251-6768.
 
 ## 🤝 Let's Connect
 I thrive in environments that require the precision of a Scientist, the clarity of a Communicator, and the technical mindset of a Data Analyst.
